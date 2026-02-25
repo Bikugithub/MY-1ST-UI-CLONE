@@ -296,3 +296,12 @@ font-size: 0.7rem;
 margin-top: 17px;
  }
  
+ .my-regards {
+    margin-top: 10px;
+    background-color: #0f1111;
+    font-size: small;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
